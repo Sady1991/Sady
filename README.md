@@ -2,6 +2,10 @@
 SadyExamen
 
 git clone https://github.com/Sady1991/Sady.git
+
+
+
 ls
-QPython3 Sady.py 
+
+python3 Sady.py 
 
